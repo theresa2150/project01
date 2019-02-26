@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="currency">
+        <item>JPY</item>
+        <item>NTD</item>
+        <item>USD</item>
+        <item>CNY</item>
+    </string-array>
+	   <string-array name="menu">
+        <item>Soy fillet Avocado Burger</item>
+        <item>Teriyaki Tempe Burger</item>
+        <item>Lapaz Burger</item>
+        <item>Kebab Burger</item>
+        <item>SOY KARADON</item>
+        <item>South Indian Curry Plate</item>
+    </string-array>
+
+    <string-array name="amount">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+    </string-array>
+
+    <integer-array name="price">
+        <item>1600</item>
+        <item>1500</item>
+        <item>1650</item>
+        <item>1600</item>
+        <item>1350</item>
+        <item>1200</item>
+    </integer-array>
+
+    <integer-array name="price1">
+        <item>10</item>
+        <item>20</item>
+        <item>30</item>
+        <item>40</item>
+        <item>50</item>
+        <item>60</item>
+    </integer-array>
+</resources>

@@ -1,0 +1,29 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="button01" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="android:shadowColor">#ff000000</item>
+        <item name="android:shadowDx">0</item>
+        <item name="android:shadowDy">0</item>
+        <item name="android:shadowRadius">10</item>
+        <item name="android:textColor">#ffffff</item>
+        <item name="android:textSize">40sp</item>
+    </style>
+
+    <style name="button01.Pic" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="android:shadowColor">#000000</item>
+        <item name="android:shadowDx">0</item>
+        <item name="android:shadowDy">0</item>
+        <item name="android:layout_margin">5dp</item>
+        <item name="android:shadowRadius">5</item>
+        <item name="android:textColor">#ffffff</item>
+        <item name="android:textSize">40sp</item>
+        <item name="android:scaleType">centerCrop</item>
+    </style>
+</resources>
